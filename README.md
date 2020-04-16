@@ -11,6 +11,10 @@ USTH ICT 2020 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
-
+* Nguyen Minh Duc   ( BI7- 038)
+* Nguyen Minh Duong ( BI7- 048)
+* Vu Xuan Huy       ( BI7- 084)
+* Le Canh Duong     ( BI7- 047)
+* Pham Van Duan     ( BI7- 034)
+ 
+ Fault-tolerant Key-Value Server/Client using MPI
